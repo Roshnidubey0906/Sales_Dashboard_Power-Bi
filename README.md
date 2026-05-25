@@ -38,7 +38,7 @@ Project screenshots are available in the **screenshots** folder.
 ---
 
 ## 📂 Files Included
-- `Sales_Dashboard.pbix`
+- `Sales_Dashboard_Power-Bi.pbix`
 - `train.csv`
 - `README.md`
 - `screenshots/`
